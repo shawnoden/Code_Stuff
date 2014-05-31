@@ -1,0 +1,25 @@
+//  Basic list of common SMS carrier gateways. It's not complete and I don't know the accuracy of 
+//  this list. This is the results of a very basic, quick search.
+
+
+Provider Name	    SMS Gateway Domain	
+Alltel	          <10-DigitPhoneNumber>@message.alltel.com	    Example: 5551112222@message.alltel.com 
+AT&T	            <10-DigitPhoneNumber>@txt.att.net	            Example: 5551112222@txt.att.net 
+Bellsouth	        <10-DigitPhoneNumber>@bellsouth.cl	          Example: 5551112222@bellsouth.cl
+Boost Mobile	    <10-DigitPhoneNumber>@myboostmobile.com	      Example: 5551112222@myboostmobile.com
+CellularOne	      <10-DigitPhoneNumber>@mobile.celloneusa.com 	Example: 5551112222@mobile.celloneusa.com
+CellularOne MMS 1 <10-DigitPhoneNumber>@mms.uscc.net	          Example: 5551112222@mms.uscc.net 
+Cingular GoPhone (prepaid)	<10-DigitPhoneNumber>@cingulartext.com 	 Example: 5551112222@cingulartext.com
+Comcast	          <10-DigitPhoneNumber>@comcastpcs.textmsg.com	Example: 5551112222@comcastpcs.textmsg.com
+Cricket	          <10-DigitPhoneNumber>@sms.mycricket.com	      Example: 5551112222@sms.mycricket.com
+Edge Wireless	    <10-DigitPhoneNumber>@sms.edgewireless.com	  Example: 5551112222@sms.edgewireless.com 
+Metro PCS	        <10-DigitPhoneNumber>@mymetropcs.com	        Example: 5551112222@mymetropcs.com
+Nextel	          <10-DigitPhoneNumber>@messaging.nextel.com	  Example: 5551112222@messaging.nextel.com
+Qwest	            <10-DigitPhoneNumber>@qwestmp.com	            Example: 5551112222@qwestmp.com
+Sprint	          <10-DigitPhoneNumber>@messaging.sprintpcs.com	Example: 5551112222@messaging.sprintpcs.com
+Straight Talk	    <10-DigitPhoneNumber>@vtext.com 	            Example: 5551112222@vtext.com
+T-Mobile	        <10-DigitPhoneNumber>@tmomail.net	            Example: 5551112222@tmomail.net
+TracFone	        <10-DigitPhoneNumber>@mmst5.tracfone.com 	    Example: 5551112222@mmst5.tracfone.com
+US Cellular	      <10-DigitPhoneNumber>@email.uscc.net	        Example: 5551112222@email.uscc.net
+Verizon	          <10-DigitPhoneNumber>@vtext.com	              Example: 5551112222@vtext.com
+Virgin Mobile	    <10-DigitPhoneNumber>@vmobl.com	              Example: 5551112222@vmobl.com
