@@ -1,0 +1,9 @@
+For his entire life, Shawn has been a geek and a tinkerer. He always loved taking things apart and putting them back together. He is a self-taught coder who began by teaching himself how to write BASIC on the Commodore 64 many moons ago. But, like most young boys, Shawn didn't follow his mama's advice. Instead of becoming a programmer, he became a pilot instead. 
+
+Shawn got a degree in Aviation, spent several years teaching others to fly, and began a career in the airline industry. But he never lost his inner geek. He taught himself HTML (before GeoCities became a what-NOT-to-do reference), and in mid-2000 an opportunity opened up to fill in for a vacationing developer at his brother's web development company. So Shawn took it. He learned just enough Java to tell the World "Hello" before being switched over to a Cold Fusion (Allaire) project. Shawn rediscovered his inner geek and left the airline life to become a code monkey. He's never looked back. 
+
+In his second career, Shawn has worn a myriad of hats. He's been a coder, a business intelligence reporter, a server administrator, a hardware repair technician, a support technician, a shipper and even an office mover. He worked with tablet computers before they were even called tablets, and he can wire Cat-5 cable with his eyes closed. If a task is thrown in front of him, he will take care of it. 
+
+Shawn has spent most of his career as a ColdFusion developer, with the last few years spent primarily honing his SQL skills. But at heart, he's always been a ColdFusion developer. He's been a member of the Nashville ColdFusion User Group since 2005, when the company he worked for hosted it. He's seen the group (and the language) change quite a bit over the years, and despite being moved in many different directions throughout his career, he's always held a love for ColdFusion. 
+
+When his friend Brett asked him to help rebuild the group, Shawn jumped at the opportunity. And here he is.
