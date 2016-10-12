@@ -1,0 +1,5 @@
+This is just another implementation of FizzBuzz, but more dynamic. I love this little exercise. It's simple, but to the point. And if you want to, it makes you think deeper about your implementation when you start adding in edge cases.
+
+This version uses a CFC function to generate a struct based on the divisors and a range value: ie> genString(3,5,100);
+
+
