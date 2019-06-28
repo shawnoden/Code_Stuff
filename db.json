@@ -2,7 +2,7 @@
   "test": [
     {
       "id": "urn:li:simpleJobPostingTask:d2a30d4e-929b-4abf",
-      "jobPosting": "urn:li::jobPosting:123456798",
+      "jobPosting": "urn:li::jobPosting:12345678",
       "status":"SUCCEEDED"
     }
   ],
