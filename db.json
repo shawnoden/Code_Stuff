@@ -1,8 +1,9 @@
 {
   "test": [
     {
-      "id": 1,
-      "title": "testme"
+      "id": "urn:li:simpleJobPostingTask:d2a30d4e-929b-4abf",
+      "jobPosting": "urn:li:jobPosting:123456798",
+      "status":"SUCCEEDED"
     }
   ],
   "profile": {
